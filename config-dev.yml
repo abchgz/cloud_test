@@ -1,5 +1,4 @@
 spring:
-  cloud:
-    config:
-      info: 111222333
+  application:
+    name: view-service-222
 
