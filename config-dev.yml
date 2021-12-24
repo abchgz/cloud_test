@@ -1,4 +1,4 @@
 spring:
   application:
-      name: view-service-333
+    name: view-service-333
 
