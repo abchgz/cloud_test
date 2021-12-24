@@ -1,2 +1,5 @@
-config:
-  info: 111222333
+spring:
+  cloud:
+    config:
+      info: 111222333
+
