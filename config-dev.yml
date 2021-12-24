@@ -1,3 +1,4 @@
-application:
-    name: view-service-333
+spring:
+  application:
+      name: view-service-333
 
